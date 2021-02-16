@@ -1,0 +1,11 @@
+{
+    "prefix": "PREFIXO",
+    "token": "TONE AQUi",
+
+    "colors": {
+        "red": "#ff0000",
+        "amarelo": "#eaff0a",
+        "azul": "BLUE",
+        "ciano": "#03e4ff"
+    }
+}
