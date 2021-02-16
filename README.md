@@ -11,10 +11,10 @@
 ## Ok, agora que instalei as dependências como faço para o ligar?
 - Basta. no mesmo terminal digitar: `node .` depois espera pelas logs
 
-### Edição
-## Para editar o projeto, posso?
+## Edição
+### Para editar o projeto, posso?
 - Podes, e deves, mas a zonas que dizes ex: `COLOQUE AQUI O TOKEN` ai tu metes o token ex:
 
 
-# Licença:
+## Licença:
 - A lincença é `MIT`, ou seja podes editar e usar para uso pessoal, mas se tu ou qualquer outra pessoa, dar os créditos a sí e eu souber, pode dar barraca já que `Direitos Autorais` são poderosos! 
