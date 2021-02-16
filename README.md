@@ -1,11 +1,11 @@
-### Autenticação de Créditos/ direitos ao criador do Projeto:
-## LuCky_Boss1260#1272
+## Autenticação de Créditos/ direitos ao criador do Projeto:
+### LuCky_Boss1260#1272
 
 ## O que vai precisar ter para poder rodar o projeto?
 - [Node.js](https://nodejs.org/en/download/)
 -  [Visual Studio Code](https://code.visualstudio.com/Download)
 
-## O que preciso fazer para instalar as dependêcias do projetp?
+## O que preciso fazer para instalar as dependêcias do projeto?
 - Precisas de abrir um novo treminal e digitar: `npm i` e apartir de ai vai começar a instalação
 
 ## Ok, agora que instalei as dependências como faço para o ligar?
